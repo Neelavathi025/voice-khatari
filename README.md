@@ -155,58 +155,7 @@ Privacy is an important part of the Voice ಖಾತರಿ design.
 - Visual Studio Code or Google Antigravity
 - A modern browser
 
-### Installation
 
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Navigate to the project directory:
-
-```bash
-cd voice-khatari
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open the local URL displayed in the terminal.
-
-### Production Build
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-## Development Roadmap
-
-- [x] Initial React frontend
-- [x] Dashboard and core screen design
-- [ ] Functional customer management
-- [ ] Local transaction management
-- [ ] IndexedDB integration
-- [ ] Progressive Web App configuration
-- [ ] Offline application caching
-- [ ] Local speech recognition
-- [ ] Kannada voice recognition testing
-- [ ] Hindi and English voice recognition testing
-- [ ] Local text-to-speech integration
-- [ ] Voice-based transaction confirmation
-- [ ] Offline testing and optimisation
-- [ ] Data export and backup
 
 ## Future Enhancements
 
